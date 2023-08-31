@@ -1,0 +1,4 @@
+BEGIN ProgNAme
+IF (1+1 < 3) THEN
+    PRINT(2) ,
+END END END

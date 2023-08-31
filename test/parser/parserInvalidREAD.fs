@@ -1,0 +1,3 @@
+BEGIN InvalidREAD
+    READ(2),
+END

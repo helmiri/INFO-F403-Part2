@@ -1,0 +1,1 @@
+:: Single line comment should be ignored
